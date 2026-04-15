@@ -15,6 +15,8 @@ I am 19 years old and attending Dundrum College of Further Education to pursue a
 <br><br>
 [Education](https://github.com/TomgirlFoolery/portfolio/edit/main/README.md#education)
 <br><br>
+[Curriculum Vitae Download]()
+<br><br>
 
 # What will be contained in contained in this file?
 
@@ -43,3 +45,8 @@ I suppose what takes up most of my time is studying and completing school work t
 # Education
 
 I would really like to get into IADT as it would be the perfect place to meet peers who share my interests and goals of creating something unique and interesting. I believe I have the skill and dedication to succeed in this school so hopefully having a Level 6 Computer Science Certificate will look good on my application and help me be considered for a place. I always have TUD as a backup but I don't trust it as much because it's not an art school. I feel like the people wouldn't be as entertaining.
+
+# Curriculum Vitae Download
+
+[Ferguson_Callum_CV.pdf](https://github.com/user-attachments/files/26751244/Ferguson_Callum_CV.pdf)
+
